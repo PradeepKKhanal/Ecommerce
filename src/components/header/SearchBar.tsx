@@ -51,7 +51,7 @@ function SearchBar() {
 
 	return (
 		<>
-			<Box style={{ position: "relative", maxWidth: "500px" }}>
+			<Box style={{ position: "relative", maxWidth: "500px" ,margin:'auto'}}>
 				<InputGroup maxW="600px" >
 					<InputLeftElement h="50px">
 						<SearchIcon fontSize="15px" />
